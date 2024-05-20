@@ -11,10 +11,11 @@ Hi there! I'm Yasir Upanduka, a passionate developer and visual art enthusiast. 
 
 ### 👨‍💻 About Me
 
-- **💼 Design Lead** at **Vue JS Sri Lanka Community**
-- **🎓 Former Design Lead** at **SLIIT IT Student Community 23/24**
-- **🌟 Volunteering** in various tech communities
-- **🎨 Visual Art Enthusiast** and developer
+- **🎓 Graduated with a BSc (Hons) in Information Technology Specializing in Information Technology**
+- **🌱 Interested in collaborating on open-source projects**
+- **👨‍💻 All of my projects are available at [My Portfolio]([https://yourportfolio.com](https://yasirupanduka.netlify.app/))**
+- **📫 Reach me at yasirupanduka.penta@gmail.com**
+- **⚡ Fun fact: 👻**
 
 ---
 
@@ -37,7 +38,7 @@ Hi there! I'm Yasir Upanduka, a passionate developer and visual art enthusiast. 
 
 ### 📈 GitHub Stats
 
-![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirupanduka99&layout=compact&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirupanduka99&layout=compact&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
