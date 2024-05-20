@@ -13,7 +13,7 @@ Hi there! I'm Yasir Upanduka, a passionate developer and visual art enthusiast. 
 
 - **🎓 Graduated with a BSc (Hons) in Information Technology Specializing in Information Technology**
 - **🌱 Interested in collaborating on open-source projects**
-- **👨‍💻 All of my projects are available at [My Portfolio]([https://yourportfolio.com](https://yasirupanduka.netlify.app/))**
+- **👨‍💻 All of my projects are available at [My Portfolio](https://yasirupanduka.netlify.app/)**
 - **📫 Reach me at yasirupanduka.penta@gmail.com**
 - **⚡ Fun fact: 👻**
 
@@ -44,7 +44,7 @@ Hi there! I'm Yasir Upanduka, a passionate developer and visual art enthusiast. 
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasirupanduka99&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasirupanduka99&theme=radical&background=000000&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 ---
 
