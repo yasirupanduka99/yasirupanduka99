@@ -5,7 +5,7 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/yasirupanduka99.svg)](https://user-badge.committers.top/sri_lanka_private/yasirupanduka99)
 <h1 align="left">👻 Blending technology with creativity.</h1>
 
-Hi there! I'm Yasir Upanduka, a passionate developer and visual art enthusiast. My journey is all about combining technology and creativity to create innovative solutions. Welcome to my GitHub profile!
+Hi there! I'm Yasiru Panduka, a passionate developer and visual art enthusiast. My journey is all about combining technology and creativity to create innovative solutions. Welcome to my GitHub profile!
 
 ---
 
