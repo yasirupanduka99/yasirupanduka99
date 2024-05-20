@@ -37,9 +37,7 @@ Hi there! I'm Yasir Upanduka, a passionate developer and visual art enthusiast. 
 
 ### 📈 GitHub Stats
 
-![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=dark&title_color=61DAFB&text_color=61DAFB)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirupanduka99&layout=compact&theme=dark&title_color=61DAFB&text_color=61DAFB)](https://github.com/anuraghazra/github-readme-stats)
+![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirupanduka99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
