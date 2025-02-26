@@ -45,6 +45,8 @@ Hi there! I'm Yasiru Panduka, a passionate developer and visual art enthusiast. 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasirupanduka99)](https://git.io/streak-stats)
 
+![GitHub Streak](https://img.shields.io/badge/🔥_GitHub_Streak-Active-brightgreen)
+
 ---
 
 ### 🏆 Achievements
