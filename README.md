@@ -59,6 +59,5 @@ I'm always excited to connect with like-minded individuals and collaborate on pr
 
 ---
 
-![Loading](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=yasirupanduka99&color=blue&style=flat-square)
 
