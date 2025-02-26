@@ -57,4 +57,8 @@ Hi there! I'm Yasiru Panduka, a passionate developer and visual art enthusiast. 
 
 I'm always excited to connect with like-minded individuals and collaborate on projects that push the boundaries of technology and design. Let's create something amazing together!
 
+---
+
+![Loading](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
+
 
