@@ -36,6 +36,9 @@ Hi there! I'm Yasiru Panduka, a passionate developer and visual art enthusiast. 
 
 ---
 
+<details>
+  <summary>More...</summary>
+
 ### 📈 GitHub Stats
 
 ![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirupanduka99&layout=compact&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
@@ -59,3 +62,4 @@ Hi there! I'm Yasiru Panduka, a passionate developer and visual art enthusiast. 
 
 I'm always excited to connect with like-minded individuals and collaborate on projects that push the boundaries of technology and design. Let's create something amazing together!
 
+</details>
