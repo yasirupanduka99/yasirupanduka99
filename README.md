@@ -39,16 +39,22 @@ Hi there! I'm Yasiru Panduka, a passionate developer and visual art enthusiast. 
 <details>
   <summary>More...</summary>
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & 🔥 Streak Stats
 
-![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirupanduka99&layout=compact&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)
+![GitHub Streak](https://github-streak.vercel.app/?user=yasirupanduka99)
 
 ---
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasirupanduka99)](https://git.io/streak-stats)
+### 🔥 Streak Count
 
 ![GitHub Streak](https://img.shields.io/badge/🔥_GitHub_Streak-Active-brightgreen)
+
+---
+
+### 🤖 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirupanduka99&layout=compact&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
