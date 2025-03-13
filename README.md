@@ -41,8 +41,7 @@ Hi there! I'm Yasiru Panduka, a passionate developer and visual art enthusiast. 
 
 ### 📈 GitHub Stats & 🔥 Streak Stats
 
-![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasirupanduka99)
+![Yasiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirupanduka99&show_icons=true&theme=radical&bg_color=000000&text_color=FFFFFF&title_color=ADD8E6&border_color=000000) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasirupanduka99)
 
 ---
 
